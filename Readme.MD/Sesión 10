@@ -18,7 +18,7 @@ del noveno planeta.
 --Diseñador:
 Friedemann Friese nació el 5 de junio de 1970 en Alemania, es un diseñador de juegos de mesa conocido por los temas 
 extravagantes y la jugabilidad de sus juegos. Tiene una afición al color verde, ha incluido este color en la portada de todos
-sus diseños y. Tambien intenta empezar el nombre de sus juegos con la letra "F", aunque se pierde con la traducción. Friedemann
+sus diseños. Tambien intenta empezar el nombre de sus juegos con la letra "F", aunque se pierde con la traducción. Friedemann 
 diseña para su propia empresa de publicación de juegos, 2F-Spiele.
 
 --Juego original:
@@ -34,9 +34,27 @@ número 1.
 
 ---
 
-Como se juega:
+--Como se juega:
 
+---Rondas:
+Al comienzo de una ronda cada jugador tiene un total de 7 cartas, durante cada baza todos los jugadores echan una carta. Hay 
+un total de 7 bazas en cada ronda.
 
+---Opciones: 
+Durante una baza el primer jugador puede echar cualquier carta, el resto de jugadores tienen 2 opciones: Ganar la baza echando
+una carta con un número superior o igual, o dejar la baza echando su número mas bajo. La primera baza la inicia el jugador mas
+joven, las siguientes bazas las inicia el ganador de la baza anterior.
 
+---Objetivo: El objetivo de todas las rondas es evitar ganar la ultima baza.
 
+---Riesgo: El ganador de la ultima baza recibe tantas miniaturas de pepinos como el números de pepinos dibujados que tenga su
+ultima carta. Las cartas con el número 1 que se encuentren en la ultima baza duplican las miniaturas de pepinos. Cuando un 
+jugador tiene mas de 5 pepinos abandona el juego.
+
+---Final del juego:
+El juego termina cuando solo quede un jugador, para eso se juegan las rondas necesarias.
+
+---Caracteristicas: 
+5 pepinos es un juego de 2 a 6 jugadores, con un tiempo de juego de 25 minutos aproximadamente y recomendado para mayores de
+8 años.
 
