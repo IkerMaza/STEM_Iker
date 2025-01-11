@@ -31,15 +31,64 @@ El juego consta de 110 cartas:
 
 -1 carta de inicio
 -3 cartas de objetivo
--40 cartas de tunel
--28 cartas de pepitas de oro
+-11 cartas de enano, (7 mineros y 4 saboteadores)
 -27 cartas de acción
--11 cartas de enano 
--(7 mineros y 4 saboteadores)
+-28 cartas de pepitas de oro
+-40 cartas de tunel
 
+###Como se juega
 
+####Roles:
+Se reparte a cada jugador una carta de enano para asignar su papel: minero o saboteador. Los roles se mantienen en secreto 
+hasta que la ronda haya terminado.
 
+####Destino:
+Las cartas de objetivo se colocan boca abajo a una distancia de siete cartas de la carta de inicio y con un espacio de una 
+carta entre cada carta de objetivo. Una carta de objetivo tiene oro pero ningun jugador sabe cual es.
 
+####Turno:
+Los jugadores tienen cartas en la mano. En su turno, un jugador debe hacer una de tres cosas: colocar una carta de camino en la 
+mina, jugar una carta de acción o pasar.
+
+####Caminos:
+Las cartas de ruta forman caminos desde la carta de inicio que conducen a las cartas de objetivo. Las cartas de ruta deben 
+jugarse junto a una carta de ruta ya jugada, todos los caminos de la carta de ruta deben coincidir con los de las cartas ya 
+jugadas, y las cartas de ruta no pueden jugarse de lado.
+
+####Mineros y saboteadores:
+Los mineros intentan construir un camino ininterrumpido desde la carta de inicio hasta la carta de oro, mientras los 
+saboteadores intentan evitarlo, sin embargo no deberian hacerlo demasiado obvio, no sea que los descubran de inmediato.
+
+####Cartas de acción:
+Las cartas de acción se pueden colocar frente a cualquier jugador, incluido tu mismo. Las cartas de acción permiten a los 
+jugadores ayudarse o entorpecerse entre sí, así como obtener información sobre las cartas de objetivo, e incluso modificar el 
+camino.
+
+####Fin de la ronda:
+Una vez que un jugador coloca una carta de ruta que llega al oro la ronda termina, los mineros ganan y reciben cartas con 
+pepitas de oro como recompensa. La ronda también termina si no se puede alcanzar el oro, en este caso los saboteadores ganan y 
+reciben las piezas de oro. Una vez repartidas las pepitas de oro, se inicia la siguiente ronda.
+
+####Fin del juego:
+El juego termina al finalizar la tercera ronda, siendo el ganador el jugador con más fichas de oro.
+
+####Nueva versión:
+Se hace una expansión de una sola carta, con un nuevo papel, el enano egoísta. El jugador con esta carta de enano, solo gana 
+cuando es el mismo quien conecta la carta de inicio con la carta de oro. Si gana, el recibe todas las pepitas de oro y no gana 
+nada si ganan los mineros o los saboteadores.
+
+####Caracteristicas:
+Saboteur es un juego de 3 a 10 jugadores, de unos 30 minutos de juego aproximadamente y recomendado para mayores de 8 años.
+
+---
+---
+
+##Pelusas
+
+-Diseñador
+-Juego original
+-Piezas
+-Como se juega
 
 
 
