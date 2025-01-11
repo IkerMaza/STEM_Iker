@@ -1,4 +1,4 @@
-#Sesión 2
+Sesión 2
 
 Durante la segunda sesión se explicaron los juegos Saboteur y a Pelusas, todos los alumnos de STEMbach jugamos a los dos juegos. 
 
@@ -6,27 +6,27 @@ Durante la segunda sesión se explicaron los juegos Saboteur y a Pelusas, todos 
 ---
 ---
 
-##Saboteur
+-Saboteur
 
--Diseñador
--Reimplementaciones
--Piezas
--Como se juega
+--Diseñador
+--Reimplementaciones
+--Piezas
+--Como se juega
 
 ---
 
-###Diseñador:
+--Diseñador:
 Frédéric Moyersoen nació en 1961. Es un diseñador de juegos belga creador de grandes éxitos de crítica y público. Frédéric es 
 conocido por ser el creador del juego Saboteur, y todas sus variantes, aunque tiene un amplio historial de juegos diferentes. 
 Tiene desde juegos de estrategia ligeros hasta juegos de guerra, también es el artista de algunos de sus juegos (se encarga de 
 los elementos visuales.)
 
-###Reimplementaciones:
+--Reimplementaciones:
 Saboteur fue lanzado en 2004. Tiene un gran número de expansiones y versiones que incluyen distintas cartas con diferentes 
 roles, acciones, obstaculos, mapas, metodos de juego.... También posee una reimplementación, Saboteur: Las minas perdidas, 
 lanzado en el 2018.
 
-###Piezas:
+--Piezas:
 El juego consta de 110 cartas:
 
 -1 carta de inicio
@@ -36,60 +36,119 @@ El juego consta de 110 cartas:
 -28 cartas de pepitas de oro
 -40 cartas de tunel
 
-###Como se juega
+--Como se juega
 
-####Roles:
+---Roles:
 Se reparte a cada jugador una carta de enano para asignar su papel: minero o saboteador. Los roles se mantienen en secreto 
 hasta que la ronda haya terminado.
 
-####Destino:
+---Destino:
 Las cartas de objetivo se colocan boca abajo a una distancia de siete cartas de la carta de inicio y con un espacio de una 
 carta entre cada carta de objetivo. Una carta de objetivo tiene oro pero ningun jugador sabe cual es.
 
-####Turno:
+---Turno:
 Los jugadores tienen cartas en la mano. En su turno, un jugador debe hacer una de tres cosas: colocar una carta de camino en la 
 mina, jugar una carta de acción o pasar.
 
-####Caminos:
+---Caminos:
 Las cartas de ruta forman caminos desde la carta de inicio que conducen a las cartas de objetivo. Las cartas de ruta deben 
 jugarse junto a una carta de ruta ya jugada, todos los caminos de la carta de ruta deben coincidir con los de las cartas ya 
 jugadas, y las cartas de ruta no pueden jugarse de lado.
 
-####Mineros y saboteadores:
+---Mineros y saboteadores:
 Los mineros intentan construir un camino ininterrumpido desde la carta de inicio hasta la carta de oro, mientras los 
 saboteadores intentan evitarlo, sin embargo no deberian hacerlo demasiado obvio, no sea que los descubran de inmediato.
 
-####Cartas de acción:
+---Cartas de acción:
 Las cartas de acción se pueden colocar frente a cualquier jugador, incluido tu mismo. Las cartas de acción permiten a los 
 jugadores ayudarse o entorpecerse entre sí, así como obtener información sobre las cartas de objetivo, e incluso modificar el 
 camino.
 
-####Fin de la ronda:
+---Fin de la ronda:
 Una vez que un jugador coloca una carta de ruta que llega al oro la ronda termina, los mineros ganan y reciben cartas con 
 pepitas de oro como recompensa. La ronda también termina si no se puede alcanzar el oro, en este caso los saboteadores ganan y 
 reciben las piezas de oro. Una vez repartidas las pepitas de oro, se inicia la siguiente ronda.
 
-####Fin del juego:
+---Fin del juego:
 El juego termina al finalizar la tercera ronda, siendo el ganador el jugador con más fichas de oro.
 
-####Nueva versión:
+---Nueva versión:
 Se hace una expansión de una sola carta, con un nuevo papel, el enano egoísta. El jugador con esta carta de enano, solo gana 
 cuando es el mismo quien conecta la carta de inicio con la carta de oro. Si gana, el recibe todas las pepitas de oro y no gana 
 nada si ganan los mineros o los saboteadores.
 
-####Caracteristicas:
+---Caracteristicas:
 Saboteur es un juego de 3 a 10 jugadores, de unos 30 minutos de juego aproximadamente y recomendado para mayores de 8 años.
 
 ---
 ---
 
-##Pelusas
+-Pelusas
 
--Diseñador
--Juego original
--Piezas
--Como se juega
+--Diseñador
+--Juego original
+--Piezas
+--Como se juega
+
+---
+
+--Diseñador:
+Reiner Knizia nació en 1957 en Alemania.  Es doctor en matemáticas por la universidad de Ulm y posee un Master en Ciencia por 
+la Universidad de Siracusa. Publicó sus primeros juegos en 1990, y desde 1997 es diseñador de juegos a tiempo completo. Es 
+principalmente conocido por sus juegos de estilo alemán (con mayor incidencia en el sistema de juego que en la tematica del 
+juego). Ha recibido numerosos galardones por sus obras. Ha publicado más de 600 juegos y libros (tambien es autor de 
+aplicaciones y videojuegos) de los que ha vendido más de 13 millones de copias en distintos idiomas y países, incluyendo 
+muchas licencias globales. Ha creado juegos para todas las edades y en diferentes estilos. Sus obras son juegos que dependen 
+del azar de forma controlada, y en algunos casos tienen tematicas ornamentales. En ocasiones las obras de Knizia estan 
+centradas en la toma de decisiones y la evaluación de riesgos.
 
 
+--Juego original:
+Cheeky Monkey (mono descarado) es el juego antecesor a pelusas, fue lanzado en 2007. Cheeky Monkey fue reimplementado por 
+Family Inc. y No Merci. No Merci (Sin piedad) o HIT fue lanzado en 2021, Pelusas es una versión de No Merci.
 
+--Piezas:
+El juego consta de 90 cartas:
 
+-once cartas de 1
+-once cartas de 2
+-once cartas de 3
+-once cartas de 4
+-once cartas de 5
+-siete cartas de 6
+-siete cartas de 7 
+-siete cartas de 8
+-siete cartas de 9 
+-siete cartas de 10
+
+--Como se juega
+
+---Comienzo:
+Al comenzar el juego las cartas estan en un monton boca abajo.
+
+---Primer turno:
+Durante tu turno das la vuelta a una carta de la baraja y la colocas frente a ti, puedes robar todas las cartas del mismo 
+número que estén frente a otros jugadores, aunque no es obligatorio. Puedes parar despues de cada carta que saques, o puedes 
+sacar otra.
+
+---Riesgos:
+Si tienes un minimo de tres cartas frente a ti y sacas un número que ya tienes frente a ti, descartas todas las cartas que 
+tengas frente a ti del juego.
+
+---Turnos siguientes:
+Al comenzar tu proximo turno, si tienes cartas frente a ti, colócalas boca abajo en una pila de puntuación personal y luego 
+comienza tu turno.
+
+---Fin del Juego:
+Cuando se agota la pila de robo, todos los jugadores colocan todas las cartas que tienen frente a sí en sus pilas de 
+puntuación y luego cuentan los números de todas sus cartas puntuadas. El jugador que tenga la suma más alta obtendra la 
+victoria.
+
+---Caracteristicas:
+Pelusas es un juego de 2 a 6 jugadores, recomendado para mayores de 8 años y con una duración aproximada de 20 minutos.
+
+---
+---
+---
+
+--Opinión personal:
